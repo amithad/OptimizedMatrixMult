@@ -1,7 +1,7 @@
 # Optimized Matrix Multiplication
 
-# Approx. 120x Speedup for 1000x1000 matrices
-
+Approx. 120x Speedup for 1000x1000 matrices:
+--------------------------------------------
 
 Requirements:
 -------------
